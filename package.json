@@ -1,5 +1,6 @@
 {
   "name": "quiz-app",
+    "homepage": "https://jason272001.github.io/quiz-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
